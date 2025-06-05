@@ -2,9 +2,9 @@
 
 **Team Members:**
 
-- Manish Chandrashekar
-- Satyam Kumar
-- Vishal Hagargundgi
+- Manish Chandrashekar(mc4484)
+- Satyam Kumar(sk4343)
+- Vishal Hagargundgi(vh347)
 
 ## Introduction
 
@@ -35,9 +35,9 @@ The mobile application includes:
 2. **Retrieve Messages Screen**
    - Users enter a recipient's name to retrieve messages via a GET request.
 
-### 📸 Screenshots
+### Screenshots
 
-#### ✅ Send Message Screen
+#### Send Message Screen
 
 ![Send Message](./my-app/assets/send.png)
 
@@ -47,7 +47,7 @@ The mobile application includes:
 
 ---
 
-#### 📥 Retrieve Messages Screen
+#### Retrieve Messages Screen
 
 ![Retrieve Messages](./my-app/assets/ret.png)
 
